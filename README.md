@@ -3,7 +3,6 @@ Interactive Power BI dashboard analyzing mobile sales, brands, customer ratings,
 Dashboard Preview
 
 "Mobile Sales Performance Dashboard" (Screenshot%202026-11-01%20122443.png)
-
 Key Features
 
 - Total Sales, Units Sold, Transactions, and Average Selling Price KPIs
